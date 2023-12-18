@@ -1,0 +1,29 @@
+{
+glyphname = thorn;
+layers = (
+{
+components = (
+{
+name = "b-bowl";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"162 374 LINE",
+"165 700 LINE",
+"82 700 LINE",
+"82 -230 LINE",
+"165 -230 LINE",
+"162 96 LINE",
+"137 235 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00FE;
+}

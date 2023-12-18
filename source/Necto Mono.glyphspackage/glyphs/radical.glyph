@@ -1,0 +1,28 @@
+{
+glyphname = radical;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"370 700 LINE",
+"204 -71 LINE",
+"255 -71 LINE",
+"178 309 LINE",
+"91 309 LINE",
+"195 -101 LINE",
+"264 -101 LINE",
+"447 667 LINE",
+"392 623 LINE",
+"590 623 LINE",
+"590 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 221A;
+}

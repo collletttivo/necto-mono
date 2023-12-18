@@ -1,0 +1,48 @@
+{
+glyphname = q;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 530}";
+}
+);
+components = (
+{
+name = p;
+transform = "{-1, 0, 0, 1, 610, 0}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = p;
+transform = "{-1, 0, 0, 1, 610, 0}";
+}
+);
+layerId = "DC97AEC8-E121-4276-85F4-C0276CA6CED5";
+name = "Regular Dec 22 16, 21:52";
+width = 610;
+}
+);
+unicode = 0071;
+}

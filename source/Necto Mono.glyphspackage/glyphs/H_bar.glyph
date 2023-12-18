@@ -1,0 +1,20 @@
+{
+glyphname = Hbar;
+layers = (
+{
+components = (
+{
+name = strokelongcomb;
+transform = "{0.9723, 0, 0, 1, 11, 259}";
+},
+{
+name = H;
+transform = "{1, 0, 0, 1, 3, 0}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+}
+);
+unicode = 0126;
+}

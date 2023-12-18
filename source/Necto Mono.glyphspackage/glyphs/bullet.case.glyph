@@ -1,0 +1,29 @@
+{
+color = 4;
+glyphname = bullet.case;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"374 225 OFFCURVE",
+"430 281 OFFCURVE",
+"430 349 CURVE SMOOTH",
+"430 417 OFFCURVE",
+"374 473 OFFCURVE",
+"306 473 CURVE SMOOTH",
+"237 473 OFFCURVE",
+"181 417 OFFCURVE",
+"181 349 CURVE SMOOTH",
+"181 281 OFFCURVE",
+"237 225 OFFCURVE",
+"306 225 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+}

@@ -1,0 +1,86 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+background = {
+components = (
+{
+name = plus;
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"99 515 LINE",
+"455 366 LINE",
+"455 406 LINE",
+"99 258 LINE",
+"139 196 LINE",
+"500 345 LINE",
+"500 427 LINE",
+"139 576 LINE"
+);
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"75 135 LINE",
+"76 58 LINE",
+"525 58 LINE",
+"525 135 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 349 LINE",
+"500 423 LINE",
+"138 576 LINE",
+"96 508 LINE",
+"454 366 LINE",
+"454 406 LINE",
+"96 264 LINE",
+"138 196 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "F9911E03-D289-4775-9A24-4D015E06115B";
+name = "Regular Dec 17 17, 20:04";
+paths = (
+{
+closed = 1;
+nodes = (
+"99 515 LINE",
+"455 366 LINE",
+"455 406 LINE",
+"99 258 LINE",
+"139 196 LINE",
+"500 345 LINE",
+"500 427 LINE",
+"139 576 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"75 138 LINE",
+"76 55 LINE",
+"525 55 LINE",
+"525 138 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2265;
+}

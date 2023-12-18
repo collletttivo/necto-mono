@@ -1,0 +1,28 @@
+{
+glyphname = upArrow;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 680 LINE",
+"113 505 LINE",
+"163 445 LINE",
+"308 575 LINE",
+"278 589 LINE",
+"272 100 LINE",
+"357 100 LINE",
+"352 589 LINE",
+"323 575 LINE",
+"466 445 LINE",
+"516 505 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2191;
+}

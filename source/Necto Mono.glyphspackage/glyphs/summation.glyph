@@ -1,0 +1,33 @@
+{
+glyphname = summation;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"72 700 LINE",
+"72 654 LINE",
+"280 260 LINE",
+"280 340 LINE",
+"72 -55 LINE",
+"72 -101 LINE",
+"529 -101 LINE",
+"529 -24 LINE",
+"134 -26 LINE",
+"159 -66 LINE",
+"338 277 LINE",
+"338 322 LINE",
+"159 665 LINE",
+"134 625 LINE",
+"529 623 LINE",
+"529 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2211;
+}

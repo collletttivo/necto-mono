@@ -1,0 +1,37 @@
+{
+glyphname = cent;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = c;
+transform = "{1, 0, 0, 1, 0, 100}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"274 561 LINE",
+"357 561 LINE",
+"358 700 LINE",
+"273 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"273 0 LINE",
+"358 0 LINE",
+"357 129 LINE",
+"274 129 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00A2;
+}

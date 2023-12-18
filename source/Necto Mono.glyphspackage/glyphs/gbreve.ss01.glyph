@@ -1,0 +1,23 @@
+{
+glyphname = gbreve.ss01;
+layers = (
+{
+components = (
+{
+name = g.ss01;
+},
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, -11, 53}";
+}
+);
+guideLines = (
+{
+position = "{339, 628}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+}
+);
+}

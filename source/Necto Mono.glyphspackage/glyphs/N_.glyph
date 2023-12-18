@@ -1,0 +1,86 @@
+{
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 800}";
+}
+);
+background = {
+components = (
+{
+name = A;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"456 92 LINE",
+"515 62 LINE",
+"142 700 LINE",
+"74 700 LINE",
+"74 0 LINE",
+"159 0 LINE",
+"154 611 LINE",
+"99 631 LINE",
+"468 0 LINE",
+"536 0 LINE",
+"536 700 LINE",
+"451 700 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+guideLines = (
+{
+position = "{302, 775}";
+}
+);
+layerId = "8997C58A-09C5-4893-96A0-F61A204408B6";
+name = "Regular Feb 21 17, 22:31";
+paths = (
+{
+closed = 1;
+nodes = (
+"456 92 LINE",
+"491 98 LINE",
+"150 700 LINE",
+"74 700 LINE",
+"74 0 LINE",
+"158 0 LINE",
+"154 611 LINE",
+"119 605 LINE",
+"461 0 LINE",
+"536 0 LINE",
+"536 700 LINE",
+"453 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 004E;
+}

@@ -1,0 +1,53 @@
+{
+glyphname = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = ogonek;
+position = "{319, 10}";
+},
+{
+name = top;
+position = "{302, 800}";
+},
+{
+name = topright;
+position = "{590, 700}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"456 233 LINE SMOOTH",
+"456 121 OFFCURVE",
+"398 67 OFFCURVE",
+"305 67 CURVE",
+"212 67 OFFCURVE",
+"154 121 OFFCURVE",
+"154 233 CURVE SMOOTH",
+"154 700 LINE",
+"69 700 LINE",
+"69 232 LINE SMOOTH",
+"69 76 OFFCURVE",
+"171 -10 OFFCURVE",
+"305 -10 CURVE SMOOTH",
+"439 -10 OFFCURVE",
+"541 76 OFFCURVE",
+"541 232 CURVE SMOOTH",
+"541 700 LINE",
+"456 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0055;
+}

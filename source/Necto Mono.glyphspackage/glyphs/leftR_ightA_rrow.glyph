@@ -1,0 +1,31 @@
+{
+glyphname = leftRightArrow;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"359 552 LINE",
+"461 438 LINE",
+"137 438 LINE",
+"239 552 LINE",
+"179 602 LINE",
+"4 400 LINE",
+"179 199 LINE",
+"239 249 LINE",
+"136 362 LINE",
+"462 362 LINE",
+"359 249 LINE",
+"419 199 LINE",
+"594 400 LINE",
+"419 602 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2194;
+}

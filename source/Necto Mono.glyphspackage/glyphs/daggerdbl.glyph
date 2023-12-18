@@ -1,0 +1,39 @@
+{
+glyphname = daggerdbl;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"348 700 LINE",
+"263 700 LINE",
+"263 186 LINE",
+"348 186 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 305 LINE",
+"482 382 LINE",
+"128 382 LINE",
+"128 305 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 505 LINE",
+"482 582 LINE",
+"128 582 LINE",
+"128 505 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2021;
+}

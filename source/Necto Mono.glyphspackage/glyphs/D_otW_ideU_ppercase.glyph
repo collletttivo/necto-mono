@@ -1,0 +1,29 @@
+{
+export = 0;
+glyphname = DotWideUppercase;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"308 327 OFFCURVE",
+"328 344 OFFCURVE",
+"328 365 CURVE SMOOTH",
+"328 387 OFFCURVE",
+"308 404 OFFCURVE",
+"284 404 CURVE",
+"260 404 OFFCURVE",
+"243 387 OFFCURVE",
+"243 365 CURVE",
+"243 344 OFFCURVE",
+"260 327 OFFCURVE",
+"284 327 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+}

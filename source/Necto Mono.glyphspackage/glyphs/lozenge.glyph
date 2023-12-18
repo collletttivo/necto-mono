@@ -1,0 +1,38 @@
+{
+glyphname = lozenge;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"327 700 LINE",
+"272 700 LINE",
+"83 363 LINE",
+"83 335 LINE",
+"272 0 LINE",
+"327 0 LINE",
+"516 335 LINE",
+"516 363 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"278 70 LINE",
+"322 70 LINE",
+"138 388 LINE",
+"138 310 LINE",
+"322 630 LINE",
+"278 630 LINE",
+"461 310 LINE",
+"461 388 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 25CA;
+}

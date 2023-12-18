@@ -1,0 +1,55 @@
+{
+color = 3;
+glyphname = ordmasculine;
+layers = (
+{
+background = {
+components = (
+{
+name = ordfeminine;
+transform = "{1, 0, 0, 1, -15, 0}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"398 394 OFFCURVE",
+"445 474 OFFCURVE",
+"445 556 CURVE SMOOTH",
+"445 632 OFFCURVE",
+"398 713 OFFCURVE",
+"290 713 CURVE SMOOTH",
+"182 713 OFFCURVE",
+"135 632 OFFCURVE",
+"135 556 CURVE SMOOTH",
+"135 474 OFFCURVE",
+"182 394 OFFCURVE",
+"290 394 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"232 446 OFFCURVE",
+"197 485 OFFCURVE",
+"197 556 CURVE SMOOTH",
+"197 622 OFFCURVE",
+"233 661 OFFCURVE",
+"290 661 CURVE SMOOTH",
+"347 661 OFFCURVE",
+"383 622 OFFCURVE",
+"383 556 CURVE SMOOTH",
+"383 485 OFFCURVE",
+"348 446 OFFCURVE",
+"290 446 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00BA;
+}

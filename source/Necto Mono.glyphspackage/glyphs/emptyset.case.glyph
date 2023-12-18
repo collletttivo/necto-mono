@@ -1,0 +1,62 @@
+{
+color = 4;
+glyphname = emptyset.case;
+layers = (
+{
+background = {
+components = (
+{
+name = plus;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"451 82 OFFCURVE",
+"570 201 OFFCURVE",
+"570 346 CURVE SMOOTH",
+"570 491 OFFCURVE",
+"451 610 OFFCURVE",
+"306 610 CURVE SMOOTH",
+"161 610 OFFCURVE",
+"42 491 OFFCURVE",
+"42 346 CURVE SMOOTH",
+"42 201 OFFCURVE",
+"161 82 OFFCURVE",
+"306 82 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"210 159 OFFCURVE",
+"127 240 OFFCURVE",
+"127 346 CURVE SMOOTH",
+"127 452 OFFCURVE",
+"210 533 OFFCURVE",
+"306 533 CURVE SMOOTH",
+"402 533 OFFCURVE",
+"485 452 OFFCURVE",
+"485 346 CURVE SMOOTH",
+"485 240 OFFCURVE",
+"402 159 OFFCURVE",
+"306 159 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"41 131 LINE",
+"120 99 LINE",
+"571 562 LINE",
+"492 594 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

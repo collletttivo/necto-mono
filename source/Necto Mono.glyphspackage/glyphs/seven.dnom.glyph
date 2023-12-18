@@ -1,0 +1,75 @@
+{
+color = 4;
+glyphname = seven.dnom;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"309 194 OFFCURVE",
+"267.854 100.211 OFFCURVE",
+"255.219 0 CURVE",
+"292.253 0 LINE",
+"302.274 94.983 OFFCURVE",
+"336 184 OFFCURVE",
+"403 279 CURVE",
+"403 299 LINE",
+"206 299 LINE",
+"206 265 LINE",
+"382 267 LINE",
+"374 294 LINE"
+);
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"346 260 LINE",
+"286 165 OFFCURVE",
+"253 91 OFFCURVE",
+"244 0 CURVE",
+"301 0 LINE",
+"310 100 OFFCURVE",
+"345 171 OFFCURVE",
+"413 266 CURVE",
+"413 299 LINE",
+"196 299 LINE",
+"196 245 LINE",
+"395 251 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "B3B4B8CF-6128-4561-B504-836EBA7ADD04";
+name = "Regular Jan 29 18, 21:28";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 194 OFFCURVE",
+"267.854 100.211 OFFCURVE",
+"255.219 0 CURVE",
+"292.253 0 LINE",
+"302.274 94.983 OFFCURVE",
+"336 184 OFFCURVE",
+"403 279 CURVE",
+"403 299 LINE",
+"206 299 LINE",
+"206 265 LINE",
+"382 267 LINE",
+"374 294 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

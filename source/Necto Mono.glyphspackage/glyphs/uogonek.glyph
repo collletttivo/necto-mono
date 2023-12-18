@@ -1,0 +1,38 @@
+{
+glyphname = uogonek;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+position = "{350, 10}";
+}
+);
+components = (
+{
+name = u;
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"398 -38 LINE SMOOTH",
+"338 -121 OFFCURVE",
+"429 -252 OFFCURVE",
+"590 -178 CURVE",
+"544 -117 LINE",
+"454 -142 OFFCURVE",
+"440 -91 OFFCURVE",
+"493 -19 CURVE SMOOTH",
+"507 0 LINE",
+"473 65 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0173;
+}

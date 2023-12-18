@@ -1,0 +1,73 @@
+{
+glyphname = AE;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{303, 800}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"294 0 LINE",
+"567 0 LINE",
+"567 75 LINE",
+"294 75 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"294 0 LINE",
+"377 0 LINE",
+"377 700 LINE",
+"294 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"294 625 LINE",
+"557 625 LINE",
+"557 700 LINE",
+"294 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"294 331 LINE",
+"507 331 LINE",
+"507 406 LINE",
+"294 406 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"127 221 LINE",
+"365 221 LINE",
+"365 296 LINE",
+"127 296 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"294 598 LINE",
+"294 700 LINE",
+"250 700 LINE",
+"33 0 LINE",
+"119 0 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00C6;
+}

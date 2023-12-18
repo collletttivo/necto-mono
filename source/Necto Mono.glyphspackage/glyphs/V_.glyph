@@ -1,0 +1,71 @@
+{
+glyphname = V;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{451, 690}";
+},
+{
+name = top;
+position = "{303, 200}";
+}
+);
+background = {
+components = (
+{
+name = A;
+transform = "{1, 0, 0, -1, 1, 700}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"485 700 LINE",
+"282 67 LINE",
+"328 67 LINE",
+"125 700 LINE",
+"35 700 LINE",
+"274 0 LINE",
+"337 0 LINE",
+"575 700 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "567F38AD-B22A-46E8-8C3C-0B51306B0D41";
+name = "Regular Feb 15 17, 23:13";
+paths = (
+{
+closed = 1;
+nodes = (
+"332 51 LINE",
+"146 700 LINE",
+"61 700 LINE",
+"268 0 LINE",
+"317 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"353 0 LINE",
+"560 700 LINE",
+"475 700 LINE",
+"289 51 LINE",
+"304 0 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0056;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = minus;
+layers = (
+{
+background = {
+components = (
+{
+name = plus;
+}
+);
+};
+guideLines = (
+{
+position = "{323, 21}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"81 316 LINE",
+"81 239 LINE",
+"530 239 LINE",
+"530 316 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2212;
+}

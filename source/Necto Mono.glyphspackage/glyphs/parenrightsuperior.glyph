@@ -1,0 +1,40 @@
+{
+color = 4;
+glyphname = parenrightsuperior;
+layers = (
+{
+guideLines = (
+{
+position = "{229, -164}";
+},
+{
+position = "{229, 757}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"322 560 OFFCURVE",
+"276 460 OFFCURVE",
+"264 452 CURVE",
+"323 427 LINE",
+"362 469 OFFCURVE",
+"392 566.1 OFFCURVE",
+"392 649 CURVE SMOOTH",
+"392 730.589 OFFCURVE",
+"363 821 OFFCURVE",
+"323 866 CURVE",
+"265 840 LINE",
+"278 827 OFFCURVE",
+"322 739.154 OFFCURVE",
+"322 649 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 207E;
+}

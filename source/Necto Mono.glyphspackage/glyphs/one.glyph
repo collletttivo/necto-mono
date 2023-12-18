@@ -1,0 +1,164 @@
+{
+glyphname = one;
+layers = (
+{
+background = {
+anchors = (
+{
+name = bottom;
+position = "{315, 0}";
+},
+{
+name = ogonek;
+position = "{383, 10}";
+},
+{
+name = top;
+position = "{295, 580}";
+}
+);
+paths = (
+{
+closed = 0;
+nodes = (
+"399 45 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 519 LINE",
+"224 519 OFFCURVE",
+"293 581 OFFCURVE",
+"293 700 CURVE",
+"262 700 LINE",
+"262 660 OFFCURVE",
+"230 594 OFFCURVE",
+"116 594 CURVE"
+);
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 611 LINE",
+"262 0 LINE",
+"347 0 LINE",
+"347 700 LINE",
+"269 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"85 0 LINE",
+"525 0 LINE",
+"525 77 LINE",
+"85 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 519 LINE",
+"224 519 OFFCURVE",
+"303 581 OFFCURVE",
+"303 700 CURVE",
+"269 700 LINE",
+"264 660 OFFCURVE",
+"230 594 OFFCURVE",
+"115 594 CURVE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = DotWideUppercase;
+transform = "{1, 0, 0, 1, 17, 296}";
+}
+);
+layerId = "E4C96C80-8615-47B0-B529-381ED7D0E118";
+name = "Regular Feb 27 17, 22:00";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 0 LINE",
+"347 0 LINE",
+"347 700 LINE",
+"262 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"85 0 LINE",
+"525 0 LINE",
+"525 77 LINE",
+"85 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 500 LINE",
+"317 643 LINE",
+"262 700 LINE",
+"102 560 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = DotWideUppercase;
+transform = "{1, 0, 0, 1, 20, -327}";
+}
+);
+layerId = "F57B7DC1-2E03-439E-93B6-0167A9A50FCB";
+name = "Dec 14 17, 22:06";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 633 LINE",
+"262 0 LINE",
+"347 0 LINE",
+"347 700 LINE",
+"287 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"85 0 LINE",
+"525 0 LINE",
+"525 77 LINE",
+"85 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"181 500 LINE",
+"333 637 LINE",
+"287 700 LINE",
+"127 560 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0031;
+}

@@ -1,0 +1,98 @@
+{
+glyphname = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = center;
+position = "{305, 350}";
+},
+{
+name = top;
+position = "{305, 800}";
+}
+);
+background = {
+components = (
+{
+name = B;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 0 LINE",
+"347 0 LINE",
+"347 660 LINE",
+"262 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 623 LINE",
+"560 623 LINE",
+"560 700 LINE",
+"50 700 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = center;
+position = "{305, 350}";
+},
+{
+name = top;
+position = "{305, 800}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+components = (
+{
+name = L;
+}
+);
+};
+layerId = "3F06D81D-22F9-4B3D-BC2A-993A644BDBF4";
+name = "Dec 7 17, 12:33";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 0 LINE",
+"348 0 LINE",
+"348 660 LINE",
+"263 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"90 623 LINE",
+"520 623 LINE",
+"520 700 LINE",
+"90 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0054;
+}

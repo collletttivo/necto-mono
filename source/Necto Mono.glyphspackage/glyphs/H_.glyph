@@ -1,0 +1,57 @@
+{
+glyphname = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = center;
+position = "{306, 516}";
+},
+{
+name = top;
+position = "{305, 800}";
+},
+{
+name = topleft;
+position = "{20, 700}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"90 0 LINE",
+"175 0 LINE",
+"175 700 LINE",
+"90 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 339 LINE",
+"500 339 LINE",
+"500 416 LINE",
+"120 416 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"435 0 LINE",
+"520 0 LINE",
+"520 700 LINE",
+"435 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0048;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = slashlongcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{305, 349}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"100 -10 LINE",
+"189 -11 LINE",
+"510 709 LINE",
+"420 709 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0338;
+}

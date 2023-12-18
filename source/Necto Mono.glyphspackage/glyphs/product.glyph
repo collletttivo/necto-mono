@@ -1,0 +1,39 @@
+{
+glyphname = product;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"52 623 LINE",
+"549 623 LINE",
+"549 700 LINE",
+"52 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"134 667 LINE",
+"134 -101 LINE",
+"219 -101 LINE",
+"219 667 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"382 667 LINE",
+"382 -101 LINE",
+"467 -101 LINE",
+"467 667 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 220F;
+}

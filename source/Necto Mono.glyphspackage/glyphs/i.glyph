@@ -1,0 +1,49 @@
+{
+glyphname = i;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -5, 50}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = idotless;
+}
+);
+layerId = "DFE0AB2B-A6F1-4938-B97A-12A3B08A0772";
+name = "Regular Dec 22 16, 22:28";
+paths = (
+{
+closed = 1;
+nodes = (
+"326 592 OFFCURVE",
+"352 619 OFFCURVE",
+"352 651 CURVE SMOOTH",
+"352 683 OFFCURVE",
+"326 710 OFFCURVE",
+"294 710 CURVE SMOOTH",
+"261 710 OFFCURVE",
+"235 683 OFFCURVE",
+"235 651 CURVE SMOOTH",
+"235 619 OFFCURVE",
+"261 592 OFFCURVE",
+"294 592 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0069;
+}

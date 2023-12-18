@@ -1,0 +1,52 @@
+{
+glyphname = Q;
+layers = (
+{
+components = (
+{
+name = O;
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"536 -56 LINE",
+"411 97 LINE",
+"345 53 LINE",
+"469 -102 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = O;
+}
+);
+layerId = "D5C05269-950F-46B2-8924-12C2B0FE0565";
+name = "Mar 16 17, 21:55";
+paths = (
+{
+closed = 1;
+nodes = (
+"499 0 LINE",
+"437 -30 OFFCURVE",
+"406 -19 OFFCURVE",
+"368 50 CURVE",
+"321 -9 LINE",
+"372 -89 OFFCURVE",
+"451 -119 OFFCURVE",
+"533 -68 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0051;
+}

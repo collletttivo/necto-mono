@@ -1,0 +1,57 @@
+{
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{305, 527}";
+},
+{
+name = top;
+position = "{314, 800}";
+}
+);
+components = (
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 0, -4}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{314, 500}";
+},
+{
+name = top;
+position = "{314, 800}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+components = (
+{
+name = a;
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 0, -245}";
+}
+);
+layerId = "6A5DBC3D-A985-4C2C-95E5-08AD4FA27820";
+name = "Oct 8 17, 23:02";
+width = 610;
+}
+);
+unicode = 0306;
+}

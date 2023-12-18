@@ -1,0 +1,54 @@
+{
+glyphname = P;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 700}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"157 0 LINE",
+"157 700 LINE",
+"72 700 LINE",
+"72 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"110 700 LINE",
+"110 623 LINE",
+"333 623 LINE SMOOTH",
+"448 623 OFFCURVE",
+"463 545 OFFCURVE",
+"463 496 CURVE SMOOTH",
+"463 447 OFFCURVE",
+"448 369 OFFCURVE",
+"333 369 CURVE SMOOTH",
+"110 369 LINE",
+"110 292 LINE",
+"342 292 LINE SMOOTH",
+"488 292 OFFCURVE",
+"548 396 OFFCURVE",
+"548 496 CURVE SMOOTH",
+"548 596 OFFCURVE",
+"488 700 OFFCURVE",
+"342 700 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0050;
+}

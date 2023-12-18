@@ -1,0 +1,57 @@
+{
+color = 10;
+glyphname = l_periodcentered_l.loclCAT;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"267 310 LINE",
+"350 310 LINE",
+"350 393 LINE",
+"267 393 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 0 LINE",
+"187 0 LINE",
+"187 699 LINE",
+"104 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"439 0 LINE",
+"522 0 LINE",
+"522 699 LINE",
+"439 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 625 LINE",
+"522 625 LINE",
+"522 700 LINE",
+"360 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"25 625 LINE",
+"187 625 LINE",
+"187 700 LINE",
+"25 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

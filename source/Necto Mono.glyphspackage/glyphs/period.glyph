@@ -1,0 +1,21 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"252 -10 LINE",
+"358 -10 LINE",
+"358 90 LINE",
+"252 90 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 002E;
+}

@@ -1,0 +1,96 @@
+{
+glyphname = K;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{282, 0}";
+},
+{
+name = top;
+position = "{291, 800}";
+}
+);
+background = {
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 14, 0}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"553 0 LINE",
+"302 446 LINE",
+"295 387 LINE",
+"528 700 LINE",
+"421 700 LINE",
+"142 306 LINE",
+"172 297 LINE",
+"172 700 LINE",
+"87 700 LINE",
+"87 0 LINE",
+"172 0 LINE",
+"172 268 LINE",
+"145 187 LINE",
+"284 373 LINE",
+"254 373 LINE",
+"452 0 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{267, 0}";
+},
+{
+name = top;
+position = "{266, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "1347BA05-1DC7-4F3E-825A-2C2EB40324D1";
+name = "Regular Feb 22 17, 22:18";
+paths = (
+{
+closed = 1;
+nodes = (
+"88 0 LINE",
+"171 0 LINE",
+"171 700 LINE",
+"88 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"105 253 LINE",
+"162 210 LINE",
+"494 700 LINE",
+"398 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"524 0 LINE",
+"267 435 LINE",
+"209 391 LINE",
+"430 0 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 004B;
+}

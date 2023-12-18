@@ -1,0 +1,27 @@
+{
+glyphname = notequal;
+layers = (
+{
+components = (
+{
+name = equal;
+transform = "{1, 0, 0, 1, 0, -8}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"144 24 LINE",
+"235 23 LINE",
+"465 541 LINE",
+"373 541 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2260;
+}

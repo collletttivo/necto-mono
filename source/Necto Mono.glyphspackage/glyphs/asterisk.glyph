@@ -1,0 +1,45 @@
+{
+glyphname = asterisk;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 699 LINE",
+"277 557 LINE",
+"258 415 LINE",
+"341 415 LINE",
+"322 557 LINE",
+"341 699 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"402 664 LINE",
+"293 575 LINE",
+"156 522 LINE",
+"197 450 LINE",
+"306 539 LINE",
+"443 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 539 LINE",
+"402 450 LINE",
+"443 522 LINE",
+"306 575 LINE",
+"197 664 LINE",
+"156 592 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 002A;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{318, 0}";
+},
+{
+name = bottom;
+position = "{298, -200}";
+}
+);
+guideLines = (
+{
+position = "{284, -75}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"224 -200 LINE",
+"313 -200 LINE",
+"367 -75 LINE",
+"286 -75 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0326;
+}

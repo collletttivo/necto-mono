@@ -1,0 +1,74 @@
+{
+glyphname = Delta;
+layers = (
+{
+background = {
+components = (
+{
+name = A;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"274 700 LINE",
+"30 0 LINE",
+"580 0 LINE",
+"337 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 36 LINE",
+"511 77 LINE",
+"98 77 LINE",
+"127 36 LINE",
+"329 643 LINE",
+"281 643 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+components = (
+{
+name = A;
+}
+);
+};
+layerId = "29DCD57C-6167-455C-B5A7-579BD97D1A43";
+name = "Dec 14 17, 21:54";
+paths = (
+{
+closed = 1;
+nodes = (
+"274 700 LINE",
+"30 0 LINE",
+"580 0 LINE",
+"337 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 36 LINE",
+"511 77 LINE",
+"98 77 LINE",
+"127 36 LINE",
+"329 643 LINE",
+"281 643 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0394;
+}

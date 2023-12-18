@@ -1,0 +1,37 @@
+{
+glyphname = Eng;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{497, 0}";
+}
+);
+components = (
+{
+name = N;
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"318 -209 LINE",
+"438 -213 OFFCURVE",
+"536 -149 OFFCURVE",
+"536 -17 CURVE SMOOTH",
+"536 26 LINE",
+"454 26 LINE",
+"454 -100 OFFCURVE",
+"417 -138 OFFCURVE",
+"315 -134 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 014A;
+}

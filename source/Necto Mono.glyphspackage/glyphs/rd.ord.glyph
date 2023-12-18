@@ -1,0 +1,152 @@
+{
+color = 0;
+glyphname = rd.ord;
+layers = (
+{
+background = {
+components = (
+{
+alignment = -1;
+name = r;
+transform = "{0.44, 0, 0, 0.44, 12, 397}";
+},
+{
+name = d;
+transform = "{0.44, 0, 0, 0.44, 253, 397}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"310 608 OFFCURVE",
+"268 565 OFFCURVE",
+"268 501 CURVE SMOOTH",
+"268 437 OFFCURVE",
+"310 393 OFFCURVE",
+"374 393 CURVE SMOOTH",
+"436 393 OFFCURVE",
+"472 435 OFFCURVE",
+"472 501 CURVE SMOOTH",
+"472 568 OFFCURVE",
+"434 608 OFFCURVE",
+"373 608 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 556 OFFCURVE",
+"432 537 OFFCURVE",
+"432 501 CURVE SMOOTH",
+"432 466 OFFCURVE",
+"411 445 OFFCURVE",
+"377 445 CURVE SMOOTH",
+"344 445 OFFCURVE",
+"326 465 OFFCURVE",
+"326 501 CURVE SMOOTH",
+"326 538 OFFCURVE",
+"344 556 OFFCURVE",
+"376 556 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"486 706 LINE",
+"427 706 LINE",
+"429 561 LINE",
+"441 507 LINE",
+"433 446 LINE",
+"455 397 LINE",
+"486 397 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"73 397 LINE",
+"132 397 LINE",
+"132 546 LINE",
+"130 562 LINE",
+"103 604 LINE",
+"73 604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"34 397 LINE",
+"174 397 LINE",
+"174 449 LINE",
+"34 449 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"38 552 LINE",
+"113 552 LINE",
+"103 604 LINE",
+"38 604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"257 560 LINE",
+"243 594 OFFCURVE",
+"216 609 OFFCURVE",
+"180 609 CURVE SMOOTH",
+"122 609 OFFCURVE",
+"102 557 OFFCURVE",
+"102 479 CURVE",
+"132 479 LINE",
+"130 530 OFFCURVE",
+"144 557 OFFCURVE",
+"177 557 CURVE SMOOTH",
+"193 557 OFFCURVE",
+"202 552 OFFCURVE",
+"210 531 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 300 LINE",
+"480 300 LINE",
+"480 338 LINE",
+"32 338 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+components = (
+{
+name = nd.ord;
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = r;
+transform = "{0.44, 0, 0, 0.44, 12, 397}";
+},
+{
+name = d;
+transform = "{0.44, 0, 0, 0.44, 253, 397}";
+}
+);
+layerId = "806FA4E3-392B-41A5-B615-9A494C79C023";
+name = "1";
+width = 610;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 8;
+export = 0;
+glyphname = "b-stem";
+layers = (
+{
+background = {
+components = (
+{
+name = u;
+transform = "{-1, 0, 0, 1, 589, 0}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"135 0 LINE",
+"172 89 LINE",
+"134 250 LINE",
+"162 374 LINE",
+"165 700 LINE",
+"82 700 LINE",
+"82 0 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

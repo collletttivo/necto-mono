@@ -1,0 +1,30 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"336 148 LINE",
+"342 710 LINE",
+"257 710 LINE",
+"263 148 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 -10 LINE",
+"341 -10 LINE",
+"341 73 LINE",
+"258 73 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0021;
+}

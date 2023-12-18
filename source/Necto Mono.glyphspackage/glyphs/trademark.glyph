@@ -1,0 +1,75 @@
+{
+color = 4;
+glyphname = trademark;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{231.856, 495}";
+},
+{
+name = center;
+position = "{231.856, 600.408}";
+},
+{
+name = top;
+position = "{231.856, 735.933}";
+}
+);
+guideLines = (
+{
+position = "{292, 495}";
+},
+{
+angle = 180;
+position = "{274, 705}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"189 495 LINE",
+"235 495 LINE",
+"235 694 LINE",
+"189 694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"125 665 LINE",
+"299 665 LINE",
+"299 706 LINE",
+"125 706 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 705 LINE",
+"464 705 LINE",
+"412 615 LINE",
+"425 615 LINE",
+"373 705 LINE",
+"337 705 LINE",
+"337 495 LINE",
+"382 495 LINE",
+"376 673 LINE",
+"356 673 LINE",
+"406 581 LINE",
+"431 581 LINE",
+"481 673 LINE",
+"461 673 LINE",
+"455 495 LINE",
+"500 495 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2122;
+}

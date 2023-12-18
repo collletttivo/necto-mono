@@ -1,0 +1,125 @@
+{
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = ogonek;
+position = "{360, 0}";
+},
+{
+name = top;
+position = "{295, 800}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"143 0 LINE",
+"520 0 LINE",
+"520 77 LINE",
+"143 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"90 0 LINE",
+"175 0 LINE",
+"175 700 LINE",
+"90 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 623 LINE",
+"510 623 LINE",
+"510 700 LINE",
+"132 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 330 LINE",
+"460 330 LINE",
+"460 407 LINE",
+"100 407 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = ogonek;
+position = "{432, 10}";
+},
+{
+name = top;
+position = "{300, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+guideLines = (
+{
+position = "{302, 775}";
+}
+);
+layerId = "812EF74F-BD74-4B48-88F3-4BF2F45DC5AE";
+name = "Regular Feb 21 17, 22:13";
+paths = (
+{
+closed = 1;
+nodes = (
+"134 0 LINE",
+"528 0 LINE",
+"528 75 LINE",
+"134 75 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"82 0 LINE",
+"165 0 LINE",
+"165 700 LINE",
+"82 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"123 625 LINE",
+"518 625 LINE",
+"518 700 LINE",
+"123 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"91 331 LINE",
+"468 331 LINE",
+"468 406 LINE",
+"91 406 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0045;
+}

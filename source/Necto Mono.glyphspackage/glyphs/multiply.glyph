@@ -1,0 +1,37 @@
+{
+glyphname = multiply;
+layers = (
+{
+background = {
+components = (
+{
+name = plus;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"175 466 LINE",
+"118 408 LINE",
+"435 90 LINE",
+"493 148 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 90 LINE",
+"493 408 LINE",
+"436 466 LINE",
+"118 148 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00D7;
+}

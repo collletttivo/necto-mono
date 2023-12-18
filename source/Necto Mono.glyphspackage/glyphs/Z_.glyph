@@ -1,0 +1,129 @@
+{
+glyphname = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 800}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"537 650 LINE",
+"537 700 LINE",
+"72 700 LINE",
+"72 623 LINE",
+"471 623 LINE",
+"466 694 LINE",
+"54 50 LINE",
+"54 0 LINE",
+"556 0 LINE",
+"556 75 LINE",
+"119 75 LINE",
+"123 4 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+guideLines = (
+{
+position = "{14, 775}";
+}
+);
+layerId = "4C2BA787-9705-4A05-B3D1-E4E50103DF85";
+name = "Regular Feb 21 17, 22:46";
+paths = (
+{
+closed = 1;
+nodes = (
+"538 650 LINE",
+"538 700 LINE",
+"62 700 LINE",
+"62 623 LINE",
+"472 623 LINE",
+"452 661 LINE",
+"54 50 LINE",
+"54 0 LINE",
+"556 0 LINE",
+"556 75 LINE",
+"119 75 LINE",
+"139 37 LINE"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 500}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = DotWideUppercase;
+transform = "{1, 0, 0, 1, 211, 296}";
+},
+{
+name = DotWideUppercase;
+transform = "{1, 0, 0, 1, -188, -327}";
+}
+);
+guideLines = (
+{
+position = "{14, 775}";
+}
+);
+layerId = "801B6737-FE0D-4CC3-B465-A3BD2AD86E82";
+name = "Regular Feb 23 17, 23:41";
+paths = (
+{
+closed = 1;
+nodes = (
+"538 650 LINE",
+"538 700 LINE",
+"62 700 LINE",
+"62 623 LINE",
+"472 623 LINE",
+"474 694 LINE",
+"54 50 LINE",
+"54 0 LINE",
+"556 0 LINE",
+"556 75 LINE",
+"119 75 LINE",
+"116 4 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 005A;
+}

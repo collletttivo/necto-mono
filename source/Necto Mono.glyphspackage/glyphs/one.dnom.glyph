@@ -1,0 +1,157 @@
+{
+color = 4;
+glyphname = one.dnom;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"286 266 LINE",
+"286 -4 LINE",
+"324 -4 LINE",
+"324 305 LINE",
+"289 305 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 -4 LINE",
+"402 -4 LINE",
+"402 30 LINE",
+"208 30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 225 LINE",
+"269 225 OFFCURVE",
+"304 252 OFFCURVE",
+"304 305 CURVE",
+"289 305 LINE",
+"287 287 OFFCURVE",
+"272 258 OFFCURVE",
+"221 258 CURVE"
+);
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"276 251 LINE",
+"276 250 LINE",
+"276 0 LINE",
+"334 0 LINE",
+"334 299 LINE",
+"280 299 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"198 0 LINE",
+"412 0 LINE",
+"412 52 LINE",
+"198 52 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 199 LINE",
+"277 199 OFFCURVE",
+"305 235 OFFCURVE",
+"305 299 CURVE",
+"280 299 LINE",
+"280 268 OFFCURVE",
+"255 252 OFFCURVE",
+"211 252 CURVE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"286 266 LINE",
+"286 -4 LINE",
+"324 -4 LINE",
+"324 305 LINE",
+"289 305 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 -4 LINE",
+"402 -4 LINE",
+"402 30 LINE",
+"208 30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 225 LINE",
+"269 225 OFFCURVE",
+"304 252 OFFCURVE",
+"304 305 CURVE",
+"289 305 LINE",
+"287 287 OFFCURVE",
+"272 258 OFFCURVE",
+"221 258 CURVE"
+);
+}
+);
+};
+layerId = "A2A4DA3F-FE3F-45BE-B9F5-4A21CD801A8C";
+name = "Regular Jan 29 18, 20:45";
+paths = (
+{
+closed = 1;
+nodes = (
+"286 266 LINE",
+"286 -4 LINE",
+"324 -4 LINE",
+"324 305 LINE",
+"289 305 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"208 -4 LINE",
+"402 -4 LINE",
+"402 30 LINE",
+"208 30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 225 LINE",
+"269 225 OFFCURVE",
+"304 252 OFFCURVE",
+"304 305 CURVE",
+"289 305 LINE",
+"287 287 OFFCURVE",
+"272 258 OFFCURVE",
+"221 258 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+}

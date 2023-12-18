@@ -1,0 +1,46 @@
+{
+glyphname = divide;
+layers = (
+{
+background = {
+components = (
+{
+name = plus;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"264 50 LINE",
+"347 50 LINE",
+"347 133 LINE",
+"264 133 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"264 422 LINE",
+"347 422 LINE",
+"347 505 LINE",
+"264 505 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 316 LINE",
+"80 239 LINE",
+"530 239 LINE",
+"530 316 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00F7;
+}

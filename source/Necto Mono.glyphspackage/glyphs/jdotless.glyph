@@ -1,0 +1,46 @@
+{
+glyphname = jdotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{307, 0}";
+},
+{
+name = top;
+position = "{430, 580}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"133 470 LINE",
+"133 395 LINE",
+"457 395 LINE",
+"412 440 LINE",
+"412 -50 LINE SMOOTH",
+"412 -120 OFFCURVE",
+"377 -165 OFFCURVE",
+"296 -165 CURVE SMOOTH",
+"245 -165 OFFCURVE",
+"186 -147 OFFCURVE",
+"160 -76 CURVE",
+"90 -112 LINE",
+"121 -198 OFFCURVE",
+"205 -240 OFFCURVE",
+"297 -240 CURVE SMOOTH",
+"417 -240 OFFCURVE",
+"495 -168 OFFCURVE",
+"495 -48 CURVE SMOOTH",
+"495 470 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0237;
+}

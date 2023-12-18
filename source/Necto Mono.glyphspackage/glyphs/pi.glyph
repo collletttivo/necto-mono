@@ -1,0 +1,45 @@
+{
+glyphname = pi;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"57 395 LINE",
+"554 395 LINE",
+"554 470 LINE",
+"57 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"144 0 LINE",
+"227 0 LINE",
+"227 430 LINE",
+"144 430 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"384 162 LINE SMOOTH",
+"384 76 OFFCURVE",
+"423 34 OFFCURVE",
+"469 0 CURVE",
+"517 61 LINE",
+"492 85 OFFCURVE",
+"467 95 OFFCURVE",
+"467 167 CURVE SMOOTH",
+"467 430 LINE",
+"384 430 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 03C0;
+}

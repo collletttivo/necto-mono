@@ -1,0 +1,24 @@
+{
+glyphname = Ocircumflex;
+layers = (
+{
+components = (
+{
+name = O;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 3, 270}";
+}
+);
+guideLines = (
+{
+position = "{302, 775}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+}
+);
+unicode = 00D4;
+}

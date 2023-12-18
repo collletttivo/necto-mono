@@ -1,0 +1,62 @@
+{
+color = 4;
+glyphname = parenright.case;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = parenleft.case;
+transform = "{-1, 0, 0, 1, 610, 0}";
+}
+);
+guideLines = (
+{
+position = "{248, -164}";
+},
+{
+position = "{248, 757}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+guideLines = (
+{
+position = "{229, -164}";
+},
+{
+position = "{229, 757}";
+}
+);
+layerId = "F053CDF6-F444-412A-BB30-30A08099727F";
+name = "Oct 12 17, 20:12";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 125 OFFCURVE",
+"241 -70 OFFCURVE",
+"201 -133 CURVE",
+"269 -173 LINE",
+"335 -80 OFFCURVE",
+"398 125 OFFCURVE",
+"398 303 CURVE",
+"398 481 OFFCURVE",
+"337 672 OFFCURVE",
+"269 768 CURVE",
+"201 728 LINE",
+"241 665 OFFCURVE",
+"315 481 OFFCURVE",
+"315 303 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+leftMetricsKey = "=|parenleft.case";
+rightMetricsKey = "=|parenleft.case";
+}

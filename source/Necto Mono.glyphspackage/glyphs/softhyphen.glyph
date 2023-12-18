@@ -1,0 +1,15 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+width = 610;
+}
+);
+unicode = 00AD;
+}

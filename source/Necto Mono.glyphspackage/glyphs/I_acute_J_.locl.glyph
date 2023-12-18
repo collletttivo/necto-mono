@@ -1,0 +1,46 @@
+{
+color = 10;
+glyphname = Iacute_J.locl;
+layers = (
+{
+components = (
+{
+name = acute;
+transform = "{1, 0, 0, 1, -133, 270}";
+},
+{
+name = acute;
+transform = "{1, 0, 0, 1, 173, 270}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 0 LINE",
+"206 0 LINE",
+"206 700 LINE",
+"121 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"310 -10 LINE",
+"427 -10 OFFCURVE",
+"517 45 OFFCURVE",
+"517 251 CURVE SMOOTH",
+"517 701 LINE",
+"432 701 LINE",
+"432 275 LINE SMOOTH",
+"432 107 OFFCURVE",
+"398 65 OFFCURVE",
+"309 65 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+}

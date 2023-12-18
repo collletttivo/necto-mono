@@ -1,0 +1,49 @@
+{
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{338, 0}";
+},
+{
+name = top;
+position = "{305, 800}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 0 LINE",
+"348 0 LINE",
+"348 700 LINE",
+"263 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 0 LINE",
+"515 0 LINE",
+"515 77 LINE",
+"95 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 623 LINE",
+"515 623 LINE",
+"515 700 LINE",
+"95 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0049;
+}

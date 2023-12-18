@@ -1,0 +1,39 @@
+{
+glyphname = F;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"86 0 LINE",
+"171 0 LINE",
+"171 700 LINE",
+"86 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"130 623 LINE",
+"523 623 LINE",
+"523 700 LINE",
+"130 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"128 319 LINE",
+"473 319 LINE",
+"473 396 LINE",
+"128 396 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0046;
+}

@@ -1,0 +1,49 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"415 470 LINE",
+"316 470 LINE",
+"190 261 LINE",
+"316 52 LINE",
+"415 52 LINE",
+"250 299 LINE",
+"250 223 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+components = (
+{
+name = DotWide;
+}
+);
+layerId = "F2C99748-EA49-4DD4-84DF-49D3222E061D";
+name = "Oct 10 17, 23:57";
+paths = (
+{
+closed = 1;
+nodes = (
+"383 425 LINE",
+"316 470 LINE",
+"190 261 LINE",
+"316 52 LINE",
+"383 96 LINE",
+"255 299 LINE",
+"255 223 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 2039;
+}

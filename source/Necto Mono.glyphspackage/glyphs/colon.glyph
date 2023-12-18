@@ -1,0 +1,30 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"259 70 LINE",
+"342 70 LINE",
+"342 153 LINE",
+"259 153 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"259 363 LINE",
+"342 363 LINE",
+"342 446 LINE",
+"259 446 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 003A;
+}

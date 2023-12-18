@@ -1,0 +1,65 @@
+{
+color = 10;
+glyphname = iacute_j.locl;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{319, 0}";
+},
+{
+name = top;
+position = "{319, 500}";
+}
+);
+components = (
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, -133, 50}";
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 166, 50}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"113 0 LINE",
+"195 0 LINE",
+"193 470 LINE SMOOTH",
+"112 470 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 470 LINE",
+"150 395 LINE",
+"474 395 LINE",
+"429 440 LINE",
+"429 -50 LINE SMOOTH",
+"429 -120 OFFCURVE",
+"394 -165 OFFCURVE",
+"313 -165 CURVE SMOOTH",
+"262 -165 OFFCURVE",
+"203 -147 OFFCURVE",
+"177 -76 CURVE",
+"107 -112 LINE",
+"138 -198 OFFCURVE",
+"222 -240 OFFCURVE",
+"314 -240 CURVE SMOOTH",
+"434 -240 OFFCURVE",
+"512 -168 OFFCURVE",
+"512 -48 CURVE SMOOTH",
+"512 470 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

@@ -1,0 +1,84 @@
+{
+glyphname = fi;
+layers = (
+{
+components = (
+{
+name = f;
+transform = "{1, 0, 0, 1, -8, 0}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"535 0 LINE",
+"534 470 LINE",
+"455 470 LINE SMOOTH"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{310, 501}";
+},
+{
+name = top;
+position = "{310, 1}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "52EE4AA1-33C5-4038-BBF1-B9643B70E1DB";
+name = "Regular Jan 1 18, 23:04";
+paths = (
+{
+closed = 1;
+nodes = (
+"463 0 LINE",
+"543 0 LINE",
+"542 500 LINE SMOOTH",
+"463 500 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"67 425 LINE SMOOTH",
+"503 425 LINE SMOOTH",
+"503 500 LINE SMOOTH",
+"67 500 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"532 647 LINE",
+"492 681 OFFCURVE",
+"439 710 OFFCURVE",
+"365 710 CURVE SMOOTH",
+"256 710 OFFCURVE",
+"201 645 OFFCURVE",
+"201 544 CURVE SMOOTH",
+"201 2 LINE",
+"283 2 LINE",
+"283 501 LINE SMOOTH",
+"283 576 OFFCURVE",
+"289 635 OFFCURVE",
+"369 635 CURVE SMOOTH",
+"431 635 OFFCURVE",
+"459 613 OFFCURVE",
+"487 593 CURVE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = FB01;
+}

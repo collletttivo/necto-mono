@@ -1,0 +1,53 @@
+{
+glyphname = circumflex;
+layers = (
+{
+background = {
+components = (
+{
+name = a;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"328 700 LINE",
+"279 700 LINE",
+"173 530 LINE",
+"268 530 LINE",
+"318 666 LINE",
+"288 666 LINE",
+"339 530 LINE",
+"434 530 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "12A75A3C-ECA2-448B-AE0C-1BA64A8C8DED";
+name = "Oct 8 17, 23:11";
+paths = (
+{
+closed = 1;
+nodes = (
+"332 702 LINE",
+"280 702 LINE",
+"175 530 LINE",
+"268 530 LINE",
+"332 645 LINE",
+"280 645 LINE",
+"342 530 LINE",
+"435 530 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 02C6;
+}

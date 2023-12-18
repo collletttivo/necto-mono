@@ -1,0 +1,47 @@
+{
+glyphname = bracketright;
+layers = (
+{
+guideLines = (
+{
+position = "{229, -164}";
+},
+{
+position = "{229, 757}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"325 -165 LINE",
+"410 -165 LINE",
+"410 757 LINE",
+"325 757 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 757 LINE",
+"192 682 LINE",
+"408 682 LINE",
+"408 757 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 -90 LINE",
+"192 -165 LINE",
+"408 -165 LINE",
+"408 -90 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 005D;
+}

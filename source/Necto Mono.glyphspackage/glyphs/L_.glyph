@@ -1,0 +1,55 @@
+{
+glyphname = L;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{287, 0}";
+},
+{
+name = center;
+position = "{216, 348}";
+},
+{
+name = top;
+position = "{305, 800}";
+},
+{
+name = topright;
+position = "{590, 700}";
+}
+);
+background = {
+components = (
+{
+name = T;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"146 0 LINE",
+"543 0 LINE",
+"543 77 LINE",
+"146 77 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"105 0 LINE",
+"190 0 LINE",
+"190 699 LINE",
+"105 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 004C;
+}

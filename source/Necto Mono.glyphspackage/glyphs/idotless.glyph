@@ -1,0 +1,53 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{310, 0}";
+},
+{
+name = ogonek;
+position = "{369, 10}";
+},
+{
+name = top;
+position = "{300, 580}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 0 LINE",
+"346 0 LINE",
+"346 470 LINE SMOOTH",
+"263 470 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"84 0 LINE",
+"526 0 LINE",
+"526 75 LINE SMOOTH",
+"84 75 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 395 LINE SMOOTH",
+"316 395 LINE SMOOTH",
+"316 470 LINE SMOOTH",
+"104 470 LINE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0131;
+}

@@ -1,0 +1,57 @@
+{
+glyphname = ogonek;
+layers = (
+{
+background = {
+components = (
+{
+name = e;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"322 -48 LINE SMOOTH",
+"262 -131 OFFCURVE",
+"353 -262 OFFCURVE",
+"514 -188 CURVE",
+"468 -127 LINE",
+"378 -152 OFFCURVE",
+"364 -103 OFFCURVE",
+"417 -29 CURVE SMOOTH",
+"472 48 LINE",
+"397 55 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+layerId = "36A026A1-8358-4538-BCB5-FC7E0A5BBD07";
+name = "Oct 8 17, 23:19";
+paths = (
+{
+closed = 1;
+nodes = (
+"321 -48 LINE SMOOTH",
+"268 -136 OFFCURVE",
+"352 -262 OFFCURVE",
+"513 -188 CURVE",
+"467 -127 LINE",
+"377 -152 OFFCURVE",
+"363 -104 OFFCURVE",
+"416 -29 CURVE SMOOTH",
+"458 31 LINE",
+"394 73 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 02DB;
+}

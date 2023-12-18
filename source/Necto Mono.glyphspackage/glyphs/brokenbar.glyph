@@ -1,0 +1,30 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 356 LINE",
+"347 356 LINE",
+"347 700 LINE",
+"262 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"262 -200 LINE",
+"347 -200 LINE",
+"347 144 LINE",
+"262 144 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00A6;
+}

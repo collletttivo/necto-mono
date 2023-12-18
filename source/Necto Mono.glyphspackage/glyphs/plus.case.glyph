@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = plus.case;
+layers = (
+{
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"81 386 LINE",
+"81 309 LINE",
+"530 309 LINE",
+"530 386 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 572 LINE",
+"263 572 LINE",
+"263 122 LINE",
+"348 122 LINE"
+);
+}
+);
+width = 610;
+}
+);
+}

@@ -1,0 +1,35 @@
+{
+glyphname = yen;
+layers = (
+{
+components = (
+{
+name = Y;
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 301 LINE",
+"145 226 LINE",
+"465 226 LINE",
+"465 301 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 181 LINE",
+"145 106 LINE",
+"465 106 LINE",
+"465 181 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00A5;
+}

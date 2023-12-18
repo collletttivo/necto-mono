@@ -1,0 +1,154 @@
+{
+color = 0;
+glyphname = nd.ord;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{134.52, 397}";
+},
+{
+name = center;
+position = "{60.6, 507}";
+},
+{
+name = top;
+position = "{141.56, 652.2}";
+},
+{
+name = topright;
+position = "{507, 617}";
+}
+);
+background = {
+components = (
+{
+alignment = -1;
+name = n;
+transform = "{0.44, 0, 0, 0.44, -1, 397}";
+},
+{
+name = d;
+transform = "{0.44, 0, 0, 0.44, 243, 397}";
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"34 397 LINE",
+"92 397 LINE",
+"91 545 LINE",
+"85 569 LINE",
+"64 604 LINE",
+"34 604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"232 397 LINE",
+"233 512 LINE SMOOTH",
+"233 569 OFFCURVE",
+"199 608 OFFCURVE",
+"144 608 CURVE SMOOTH",
+"83 608 OFFCURVE",
+"62 557 OFFCURVE",
+"62 469 CURVE",
+"91 469 LINE",
+"89 528 OFFCURVE",
+"103 556 OFFCURVE",
+"136 556 CURVE SMOOTH",
+"174 556 OFFCURVE",
+"174 518 OFFCURVE",
+"174 502 CURVE SMOOTH",
+"174 397 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"310 608 OFFCURVE",
+"268 564 OFFCURVE",
+"268 500 CURVE SMOOTH",
+"268 436 OFFCURVE",
+"310 393 OFFCURVE",
+"373 393 CURVE SMOOTH",
+"436 393 OFFCURVE",
+"462 434 OFFCURVE",
+"462 503 CURVE SMOOTH",
+"462 568 OFFCURVE",
+"434 608 OFFCURVE",
+"373 608 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 556 OFFCURVE",
+"432 537 OFFCURVE",
+"432 503 CURVE SMOOTH",
+"432 465 OFFCURVE",
+"411 445 OFFCURVE",
+"376 445 CURVE SMOOTH",
+"344 445 OFFCURVE",
+"326 464 OFFCURVE",
+"326 500 CURVE SMOOTH",
+"326 537 OFFCURVE",
+"344 556 OFFCURVE",
+"376 556 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"486 705 LINE",
+"427 705 LINE",
+"429 561 LINE",
+"441 507 LINE",
+"433 446 LINE",
+"455 397 LINE",
+"486 397 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 300 LINE",
+"474 300 LINE",
+"474 338 LINE",
+"32 338 LINE"
+);
+}
+);
+width = 610;
+},
+{
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+background = {
+components = (
+{
+name = th.ord;
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = n;
+transform = "{0.44, 0, 0, 0.44, -1, 397}";
+},
+{
+name = d;
+transform = "{0.44, 0, 0, 0.44, 243, 397}";
+}
+);
+layerId = "6BA08D25-8192-48C0-B0BE-CA3BA7458EAC";
+name = "Regular Feb 15 18, 22:15";
+width = 610;
+}
+);
+}

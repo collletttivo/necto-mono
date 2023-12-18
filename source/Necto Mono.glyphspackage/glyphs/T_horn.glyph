@@ -1,0 +1,123 @@
+{
+glyphname = Thorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 700}";
+}
+);
+guideLines = (
+{
+position = "{543, 350}";
+}
+);
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 0 LINE",
+"152 700 LINE",
+"67 700 LINE",
+"67 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 0 LINE",
+"152 700 LINE",
+"67 700 LINE",
+"67 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"105 554 LINE",
+"105 477 LINE",
+"328 477 LINE SMOOTH",
+"443 477 OFFCURVE",
+"458 399 OFFCURVE",
+"458 350 CURVE SMOOTH",
+"458 301 OFFCURVE",
+"443 223 OFFCURVE",
+"328 223 CURVE SMOOTH",
+"105 223 LINE",
+"105 146 LINE",
+"337 146 LINE SMOOTH",
+"483 146 OFFCURVE",
+"543 250 OFFCURVE",
+"543 350 CURVE SMOOTH",
+"543 450 OFFCURVE",
+"483 554 OFFCURVE",
+"337 554 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = top;
+position = "{305, 700}";
+}
+);
+associatedMasterId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+guideLines = (
+{
+position = "{543, 350}";
+}
+);
+layerId = "A5DB6272-69F1-4ED7-A44C-E4EDE40142EC";
+name = "Mar 16 17, 23:32";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 0 LINE",
+"152 700 LINE",
+"67 700 LINE",
+"67 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"105 554 LINE",
+"105 479 LINE",
+"338 479 LINE SMOOTH",
+"443 479 OFFCURVE",
+"459 399 OFFCURVE",
+"459 350 CURVE SMOOTH",
+"459 301 OFFCURVE",
+"443 221 OFFCURVE",
+"338 221 CURVE SMOOTH",
+"105 221 LINE",
+"105 146 LINE",
+"347 146 LINE SMOOTH",
+"476 146 OFFCURVE",
+"542 250 OFFCURVE",
+"542 350 CURVE SMOOTH",
+"542 450 OFFCURVE",
+"476 554 OFFCURVE",
+"347 554 CURVE SMOOTH"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 00DE;
+}

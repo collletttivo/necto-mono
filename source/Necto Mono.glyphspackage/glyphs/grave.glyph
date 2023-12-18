@@ -1,0 +1,28 @@
+{
+glyphname = grave;
+layers = (
+{
+background = {
+components = (
+{
+name = a;
+}
+);
+};
+layerId = "B33A6296-7F33-4AA4-95A6-15EAB02AACC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"186 700 LINE",
+"264 530 LINE",
+"343 530 LINE",
+"275 700 LINE"
+);
+}
+);
+width = 610;
+}
+);
+unicode = 0060;
+}
