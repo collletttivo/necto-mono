@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rd.ord" format="2">
+  <advance width="610"/>
+  <outline>
+    <component base="r" xScale="0.44" yScale="0.44" xOffset="12" yOffset="397" identifier="0671F14F"/>
+    <component base="d" xScale="0.44" yScale="0.44" xOffset="253" yOffset="397"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0671F14F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

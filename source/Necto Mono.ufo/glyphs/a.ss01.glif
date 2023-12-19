@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.ss01" format="2">
+  <advance width="610"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="399" y="10" name="ogonek"/>
+  <anchor x="295" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="391" y="45" type="move"/>
+    </contour>
+    <contour>
+      <point x="390" y="45" type="move"/>
+    </contour>
+    <contour>
+      <point x="390" y="45" type="move"/>
+    </contour>
+    <contour>
+      <point x="528" y="0" type="line"/>
+      <point x="528" y="470" type="line"/>
+      <point x="445" y="470" type="line"/>
+      <point x="448" y="321" type="line"/>
+      <point x="476" y="168" type="line"/>
+      <point x="438" y="60" type="line"/>
+      <point x="475" y="0" type="line"/>
+    </contour>
+    <component base="b-bowl" xScale="-1" xOffset="610" identifier="B27071DA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B27071DA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

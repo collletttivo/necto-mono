@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_periodcentered_l.loclCAT" format="2">
+  <advance width="610"/>
+  <outline>
+    <contour>
+      <point x="267" y="393" type="line"/>
+      <point x="267" y="310" type="line"/>
+      <point x="350" y="310" type="line"/>
+      <point x="350" y="393" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="700" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="700" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="700" type="line"/>
+      <point x="360" y="625" type="line"/>
+      <point x="522" y="625" type="line"/>
+      <point x="522" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="700" type="line"/>
+      <point x="25" y="625" type="line"/>
+      <point x="187" y="625" type="line"/>
+      <point x="187" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

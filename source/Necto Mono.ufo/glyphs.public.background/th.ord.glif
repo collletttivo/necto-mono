@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="th.ord" format="2">
+  <advance width="610"/>
+  <outline>
+    <component base="t" xScale="0.44" yScale="0.44" xOffset="5" yOffset="397" identifier="C294C84E"/>
+    <component base="h" xScale="0.44" yScale="0.44" xOffset="254" yOffset="396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C294C84E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

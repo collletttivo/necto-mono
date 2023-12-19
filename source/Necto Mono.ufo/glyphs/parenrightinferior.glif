@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenrightinferior" format="2">
+  <advance width="610"/>
+  <unicode hex="208E"/>
+  <guideline x="229" y="-164" angle="0"/>
+  <guideline x="229" y="757" angle="0"/>
+  <outline>
+    <component base="parenleftinferior" xScale="-1" xOffset="662" identifier="CE13C900"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CE13C900</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

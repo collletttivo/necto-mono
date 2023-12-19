@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneeighth" format="2">
+  <advance width="610"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="one.numr" xOffset="-173" yOffset="7" identifier="CAD94709"/>
+    <component base="eight.dnom" xOffset="168"/>
+    <component base="fraction" xOffset="-6" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CAD94709</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="610"/>
+  <unicode hex="0071"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="305" y="530" name="top"/>
+  <outline>
+    <component base="p" xScale="-1" xOffset="610"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="610"/>
+  <unicode hex="0070"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="305" y="580" name="top"/>
+  <outline>
+    <component base="b" yScale="-1" yOffset="470" identifier="E8CE7103"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E8CE7103</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

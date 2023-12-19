@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="610"/>
+  <guideline x="309" y="67" angle="270"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="289" y="500" name="top"/>
+  <outline>
+  </outline>
+</glyph>

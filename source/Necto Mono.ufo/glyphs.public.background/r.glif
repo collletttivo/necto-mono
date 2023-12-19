@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="610"/>
+  <anchor x="351" y="0" name="bottom"/>
+  <anchor x="183" y="250" name="center"/>
+  <anchor x="367" y="300" name="top"/>
+  <outline>
+    <component base="n" xOffset="62"/>
+  </outline>
+</glyph>

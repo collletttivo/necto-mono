@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="610"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="455" y="470" type="line" smooth="yes"/>
+      <point x="455" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="534" y="470" type="line"/>
+    </contour>
+    <component base="f" xOffset="-8"/>
+  </outline>
+</glyph>
