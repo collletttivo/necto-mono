@@ -3,14 +3,14 @@
   <advance width="610"/>
   <guideline x="641" y="627" angle="0"/>
   <outline>
-    <component base="a.ss01" identifier="7E353160"/>
+    <component base="a.ss01" identifier="E17364BC"/>
     <component base="dieresiscomb" xOffset="-10" yOffset="50"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7E353160</key>
+        <key>E17364BC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

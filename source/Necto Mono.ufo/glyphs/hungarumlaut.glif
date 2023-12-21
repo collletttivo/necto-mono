@@ -3,19 +3,19 @@
   <advance width="610"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="grave" xScale="-1" xOffset="667" identifier="BBF27AD6"/>
-    <component base="grave" xScale="-1" xOffset="479" identifier="C415B897"/>
+    <component base="grave" xScale="-1" xOffset="667" identifier="FDBD48FE"/>
+    <component base="grave" xScale="-1" xOffset="479" identifier="98611ED8"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BBF27AD6</key>
+        <key>98611ED8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C415B897</key>
+        <key>FDBD48FE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

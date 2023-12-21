@@ -7,19 +7,19 @@
   <anchor x="280" y="580" name="top"/>
   <anchor x="600" y="500" name="topright"/>
   <outline>
-    <component base="b-bowl" xScale="-1" xOffset="610" identifier="C6E22048"/>
-    <component base="b-stem" xScale="-1" xOffset="610" identifier="56D71FF0"/>
+    <component base="b-bowl" xScale="-1" xOffset="610" identifier="B8F3CE43"/>
+    <component base="b-stem" xScale="-1" xOffset="610" identifier="C8E7E922"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>56D71FF0</key>
+        <key>B8F3CE43</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C6E22048</key>
+        <key>C8E7E922</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

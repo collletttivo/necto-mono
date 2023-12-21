@@ -1,6 +1,6 @@
 {
 .appVersion = "3217";
-copyright = "© Marco Condello & Collletttivo, 2023";
+copyright = "© 2023, Marco Condello & Collletttivo";
 customParameters = (
 {
 name = "Use Typo Metrics";

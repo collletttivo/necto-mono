@@ -2,14 +2,14 @@
 <glyph name="nd.ord" format="2">
   <advance width="610"/>
   <outline>
-    <component base="n" xScale="0.44" yScale="0.44" xOffset="-1" yOffset="397" identifier="7CD4F8F2"/>
+    <component base="n" xScale="0.44" yScale="0.44" xOffset="-1" yOffset="397" identifier="108A6FC2"/>
     <component base="d" xScale="0.44" yScale="0.44" xOffset="243" yOffset="397"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7CD4F8F2</key>
+        <key>108A6FC2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

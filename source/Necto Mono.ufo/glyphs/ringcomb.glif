@@ -4,13 +4,13 @@
   <unicode hex="030A"/>
   <anchor x="305" y="530" name="_top"/>
   <outline>
-    <component base="ring" xOffset="9" identifier="3D707203"/>
+    <component base="ring" xOffset="9" identifier="6803E89D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>3D707203</key>
+        <key>6803E89D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

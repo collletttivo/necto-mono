@@ -2,8 +2,8 @@
 <glyph name="approxequal.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="tilde" yOffset="-361" identifier="4C74E425"/>
-    <component base="tilde" yOffset="-124" identifier="52218248"/>
+    <component base="tilde" yOffset="-361" identifier="F3ECF703"/>
+    <component base="tilde" yOffset="-124" identifier="CC24BB01"/>
   </outline>
   <lib>
     <dict>
@@ -11,12 +11,12 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4C74E425</key>
+        <key>CC24BB01</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>52218248</key>
+        <key>F3ECF703</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

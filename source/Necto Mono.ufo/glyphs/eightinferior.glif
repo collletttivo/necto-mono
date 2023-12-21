@@ -3,7 +3,7 @@
   <advance width="610"/>
   <unicode hex="2088"/>
   <outline>
-    <component base="eight.dnom" yOffset="-195" identifier="BC3F3DF5"/>
+    <component base="eight.dnom" yOffset="-195" identifier="AA5DE52E"/>
   </outline>
   <lib>
     <dict>
@@ -11,7 +11,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>BC3F3DF5</key>
+        <key>AA5DE52E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>
