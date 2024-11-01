@@ -2,25 +2,25 @@
 <glyph name="onehalf" format="2">
   <advance width="610"/>
   <outline>
-    <component base="four.dnom" xOffset="168" identifier="88C85A08"/>
-    <component base="fraction" xOffset="-6" yOffset="1" identifier="76BAFEB4"/>
-    <component base="one.numr" xOffset="-173" yOffset="7" identifier="0DB82919"/>
+    <component base="four.dnom" xOffset="168" identifier="999773B2"/>
+    <component base="fraction" xOffset="-6" yOffset="1" identifier="9DD03EE2"/>
+    <component base="one.numr" xOffset="-173" yOffset="7" identifier="FD0EF7BE"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0DB82919</key>
+        <key>999773B2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>76BAFEB4</key>
+        <key>9DD03EE2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>88C85A08</key>
+        <key>FD0EF7BE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

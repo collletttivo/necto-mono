@@ -4,7 +4,7 @@
   <guideline x="248" y="-164" angle="0"/>
   <guideline x="248" y="757" angle="0"/>
   <outline>
-    <component base="parenleft.case" xScale="-1" xOffset="610" identifier="7CF9947A"/>
+    <component base="parenleft.case" xScale="-1" xOffset="610" identifier="1D4344B7"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>7CF9947A</key>
+        <key>1D4344B7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

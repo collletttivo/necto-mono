@@ -661,7 +661,7 @@ type = Stem;
 }
 );
 layerId = "D8B8DD69-6DB1-42E3-8B60-A21D79D0014D";
-name = "8_1";
+name = 8_1;
 paths = (
 {
 closed = 1;
@@ -750,7 +750,7 @@ type = Stem;
 }
 );
 layerId = "29D3F6B1-5BE0-44C2-88BB-5D9E66C8DB1B";
-name = "8_2";
+name = 8_2;
 paths = (
 {
 closed = 1;

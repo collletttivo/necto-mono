@@ -286,7 +286,7 @@ transform = "{-0.9335, 0.3586, -0.3586, -0.9335, 722, 338}";
 );
 };
 layerId = "3A733EAC-76CB-4CB8-BB10-93F41C955382";
-name = "3_B";
+name = 3_B;
 paths = (
 {
 closed = 1;

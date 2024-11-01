@@ -15,13 +15,13 @@
       <point x="358" y="0" type="line"/>
       <point x="357" y="129" type="line"/>
     </contour>
-    <component base="c" yOffset="100" identifier="B3FF3C9D"/>
+    <component base="c" yOffset="100" identifier="5484B818"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>B3FF3C9D</key>
+        <key>5484B818</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

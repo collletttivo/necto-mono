@@ -4,13 +4,13 @@
   <unicode hex="0304"/>
   <anchor x="301" y="530" name="_top"/>
   <outline>
-    <component base="macron" identifier="906962D5"/>
+    <component base="macron" identifier="A49538A8"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>906962D5</key>
+        <key>A49538A8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

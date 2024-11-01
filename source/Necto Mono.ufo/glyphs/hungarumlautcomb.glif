@@ -4,13 +4,13 @@
   <unicode hex="030B"/>
   <anchor x="297" y="530" name="_top"/>
   <outline>
-    <component base="hungarumlaut" xOffset="20" yOffset="-1" identifier="2AF5C2CE"/>
+    <component base="hungarumlaut" xOffset="20" yOffset="-1" identifier="2C60DDFC"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2AF5C2CE</key>
+        <key>2C60DDFC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

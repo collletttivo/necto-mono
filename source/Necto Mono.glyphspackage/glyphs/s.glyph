@@ -390,7 +390,7 @@ transform = "{-1, 0, 0, 1, 596, 0}";
 );
 };
 layerId = "154F3C70-1DE2-439D-8D6C-FE5F03E0CDFF";
-name = "4_NO";
+name = 4_NO;
 paths = (
 {
 closed = 1;

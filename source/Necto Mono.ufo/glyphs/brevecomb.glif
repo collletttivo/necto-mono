@@ -5,13 +5,13 @@
   <anchor x="305" y="527" name="_top"/>
   <anchor x="314" y="800" name="top"/>
   <outline>
-    <component base="breve" yOffset="-4" identifier="2F699F14"/>
+    <component base="breve" yOffset="-4" identifier="B4755AB4"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2F699F14</key>
+        <key>B4755AB4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

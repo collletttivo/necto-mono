@@ -2,7 +2,7 @@
 <glyph name="threequarters" format="2">
   <advance width="610"/>
   <outline>
-    <component base="one.numr" xOffset="-173" yOffset="7" identifier="537BA975"/>
+    <component base="one.numr" xOffset="-173" yOffset="7" identifier="EEEE6ED7"/>
     <component base="eight.dnom" xOffset="168" yOffset="1"/>
     <component base="fraction" xOffset="-6" yOffset="1"/>
   </outline>
@@ -10,7 +10,7 @@
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>537BA975</key>
+        <key>EEEE6ED7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

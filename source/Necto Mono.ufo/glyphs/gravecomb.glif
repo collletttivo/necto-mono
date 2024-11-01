@@ -4,13 +4,13 @@
   <unicode hex="0300"/>
   <anchor x="282" y="530" name="_top"/>
   <outline>
-    <component base="grave" xOffset="-18" identifier="A231C7ED"/>
+    <component base="grave" xOffset="-18" identifier="5213BEFF"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A231C7ED</key>
+        <key>5213BEFF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

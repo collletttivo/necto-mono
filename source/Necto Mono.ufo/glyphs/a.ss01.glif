@@ -23,13 +23,13 @@
       <point x="438" y="60" type="line"/>
       <point x="475" y="0" type="line"/>
     </contour>
-    <component base="b-bowl" xScale="-1" xOffset="610" identifier="FF5575CA"/>
+    <component base="b-bowl" xScale="-1" xOffset="610" identifier="AA126A53"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>FF5575CA</key>
+        <key>AA126A53</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
