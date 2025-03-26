@@ -2,7 +2,7 @@
 <glyph name="eight.numr" format="2">
   <advance width="610"/>
   <outline>
-    <component base="eight.dnom" yOffset="405" identifier="C110388A"/>
+    <component base="eight.dnom" yOffset="405" identifier="41E92A6A"/>
   </outline>
   <lib>
     <dict>
@@ -10,7 +10,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C110388A</key>
+        <key>41E92A6A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

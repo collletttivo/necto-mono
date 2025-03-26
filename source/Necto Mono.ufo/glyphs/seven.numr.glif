@@ -2,7 +2,7 @@
 <glyph name="seven.numr" format="2">
   <advance width="610"/>
   <outline>
-    <component base="seven.dnom" yOffset="394" identifier="4E02ACA1"/>
+    <component base="seven.dnom" yOffset="394" identifier="AD527793"/>
   </outline>
   <lib>
     <dict>
@@ -10,7 +10,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4E02ACA1</key>
+        <key>AD527793</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

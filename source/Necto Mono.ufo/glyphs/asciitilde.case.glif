@@ -2,7 +2,7 @@
 <glyph name="asciitilde.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="tilde" yOffset="-243" identifier="878AD3D9"/>
+    <component base="tilde" yOffset="-243" identifier="A7A0BA62"/>
   </outline>
   <lib>
     <dict>
@@ -10,7 +10,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>878AD3D9</key>
+        <key>A7A0BA62</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

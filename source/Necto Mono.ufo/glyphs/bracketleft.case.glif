@@ -2,7 +2,24 @@
 <glyph name="bracketleft.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="bracketright" xScale="-1" xOffset="610" yOffset="51"/>
+    <contour>
+      <point x="285" y="808" type="line"/>
+      <point x="200" y="808" type="line"/>
+      <point x="200" y="-114" type="line"/>
+      <point x="285" y="-114" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="808" type="line"/>
+      <point x="202" y="733" type="line"/>
+      <point x="418" y="733" type="line"/>
+      <point x="418" y="808" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="-39" type="line"/>
+      <point x="202" y="-114" type="line"/>
+      <point x="418" y="-114" type="line"/>
+      <point x="418" y="-39" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

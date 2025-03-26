@@ -4,7 +4,7 @@
   <guideline x="229" y="-164" angle="0"/>
   <guideline x="229" y="757" angle="0"/>
   <outline>
-    <component base="bracketleft.case" xScale="-1" xOffset="610"/>
+    <component base="bracketright" yOffset="51"/>
   </outline>
   <lib>
     <dict>

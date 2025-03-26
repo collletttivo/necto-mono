@@ -1,4 +1,23 @@
-# Prefix: Languagesystems
+	markClass [uni0308] <anchor 305 530> @mark_top;
+	markClass [uni0307] <anchor 305 530> @mark_top;
+	markClass [gravecomb] <anchor 282 530> @mark_top;
+	markClass [acutecomb] <anchor 293 530> @mark_top;
+	markClass [uni030B] <anchor 297 530> @mark_top;
+	markClass [uni0302] <anchor 302 530> @mark_top;
+	markClass [uni030C] <anchor 307 530> @mark_top;
+	markClass [uni0306] <anchor 305 527> @mark_top;
+	markClass [uni030A] <anchor 305 530> @mark_top;
+	markClass [tildecomb] <anchor 309 530> @mark_top;
+	markClass [uni0304] <anchor 301 530> @mark_top;
+	markClass [uni0326] <anchor 318 0> @mark_bottom;
+	markClass [uni0327] <anchor 301 0> @mark_bottom;
+	markClass [uni0328] <anchor 314 0> @mark_ogonek;
+	markClass [uni0335] <anchor 305 257> @mark_center;
+	markClass [uni0336] <anchor 305 257> @mark_center;
+	markClass [uni0337] <anchor 305 245> @mark_center;
+	markClass [uni0338] <anchor 305 349> @mark_center;
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn CAT;
@@ -10,9 +29,11 @@ languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
 languagesystem latn NLD;
+### close prefix 'Languagesystems' ###
 
+### feature:0:aalt ###
 feature aalt {
-# automatic
+### open feature 'aalt' ###
 feature locl;
 feature subs;
 feature sinf;
@@ -23,32 +44,37 @@ feature frac;
 feature ordn;
 feature case;
 feature ss01;
+### close feature 'aalt' ###
 } aalt;
 
+### feature:1:ccmp ###
 feature ccmp {
-# automatic
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+### open feature 'ccmp' ###
+lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb uni0306 uni030C uni0302 uni0312 uni0308 uni0307 gravecomb uni030B uni0304 uni030A tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+	sub i' @CombiningTopAccents by dotlessi;
+	sub j' @CombiningTopAccents by uni0237;
+} ccmp_DFLT_1;
 
 lookup ccmp_latn_1 {
+	lookupflag 0;
 	sub fi by f i;
 	sub fl by f l;
 } ccmp_latn_1;
 
 script latn;
 lookup ccmp_latn_1;
+### close feature 'ccmp' ###
 } ccmp;
 
+### feature:2:locl ###
 feature locl {
-# automatic
+### open feature 'locl' ###
 script latn;
 language AZE;
 lookup locl_latn_0 {
-	sub i by idotaccent;
+	sub i by i.loclTRK;
 } locl_latn_0;
 language CRT;
 lookup locl_latn_0;
@@ -62,10 +88,10 @@ lookup locl_latn_0;
 script latn;
 language ROM;
 lookup locl_latn_1 {
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
+	sub Scedilla by uni0218;
+	sub scedilla by uni0219;
+	sub uni0162 by uni021A;
+	sub uni0163 by uni021B;
 } locl_latn_1;
 language MOL;
 lookup locl_latn_1;
@@ -80,64 +106,72 @@ lookup locl_latn_2 {
 script latn;
 language NLD;
 lookup locl_latn_3 {
-	sub iacute j' by jacute;
-	sub Iacute J' by Jacute;
+	sub iacute j' by uni006A0301;
+	sub Iacute J' by uni004A0301;
 } locl_latn_3;
+### close feature 'locl' ###
 } locl;
 
+### feature:3:subs ###
 feature subs {
-# automatic
-sub zero by zeroinferior;
-sub one by oneinferior;
-sub two by twoinferior;
-sub three by threeinferior;
-sub four by fourinferior;
-sub five by fiveinferior;
-sub six by sixinferior;
-sub seven by seveninferior;
-sub eight by eightinferior;
-sub nine by nineinferior;
+### open feature 'subs' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
 sub period by periodinferior;
-sub parenleft by parenleftinferior;
-sub parenright by parenrightinferior;
+sub parenleft by uni208D;
+sub parenright by uni208E;
+### close feature 'subs' ###
 } subs;
 
+### feature:4:sinf ###
 feature sinf {
-# automatic
-sub zero by zeroinferior;
-sub one by oneinferior;
-sub two by twoinferior;
-sub three by threeinferior;
-sub four by fourinferior;
-sub five by fiveinferior;
-sub six by sixinferior;
-sub seven by seveninferior;
-sub eight by eightinferior;
-sub nine by nineinferior;
+### open feature 'sinf' ###
+sub zero by uni2080;
+sub one by uni2081;
+sub two by uni2082;
+sub three by uni2083;
+sub four by uni2084;
+sub five by uni2085;
+sub six by uni2086;
+sub seven by uni2087;
+sub eight by uni2088;
+sub nine by uni2089;
 sub period by periodinferior;
-sub parenleft by parenleftinferior;
-sub parenright by parenrightinferior;
+sub parenleft by uni208D;
+sub parenright by uni208E;
+### close feature 'sinf' ###
 } sinf;
 
+### feature:5:sups ###
 feature sups {
-# automatic
-sub zero by zerosuperior;
-sub one by onesuperior;
-sub two by twosuperior;
-sub three by threesuperior;
-sub four by foursuperior;
-sub five by fivesuperior;
-sub six by sixsuperior;
-sub seven by sevensuperior;
-sub eight by eightsuperior;
-sub nine by ninesuperior;
+### open feature 'sups' ###
+sub zero by uni2070;
+sub one by uni00B9;
+sub two by uni00B2;
+sub three by uni00B3;
+sub four by uni2074;
+sub five by uni2075;
+sub six by uni2076;
+sub seven by uni2077;
+sub eight by uni2078;
+sub nine by uni2079;
 sub period by periodsuperior;
-sub parenleft by parenleftsuperior;
-sub parenright by parenrightsuperior;
+sub parenleft by uni207D;
+sub parenright by uni207E;
+### close feature 'sups' ###
 } sups;
 
+### feature:6:numr ###
 feature numr {
-# automatic
+### open feature 'numr' ###
 sub zero by zero.numr;
 sub one by one.numr;
 sub two by two.numr;
@@ -148,10 +182,12 @@ sub six by six.numr;
 sub seven by seven.numr;
 sub eight by eight.numr;
 sub nine by nine.numr;
+### close feature 'numr' ###
 } numr;
 
+### feature:7:dnom ###
 feature dnom {
-# automatic
+### open feature 'dnom' ###
 sub zero by zero.dnom;
 sub one by one.dnom;
 sub two by two.dnom;
@@ -162,10 +198,12 @@ sub six by six.dnom;
 sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
+### close feature 'dnom' ###
 } dnom;
 
+### feature:8:frac ###
 feature frac {
-# automatic
+### open feature 'frac' ###
 lookup FRAC {
 	sub slash by fraction;
 } FRAC;
@@ -176,16 +214,20 @@ lookup DOWN {
 	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 } DOWN;
+### close feature 'frac' ###
 } frac;
 
+### feature:9:ordn ###
 feature ordn {
-# automatic
+### open feature 'ordn' ###
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+### close feature 'ordn' ###
 } ordn;
 
+### feature:10:case ###
 feature case {
-# automatic
+### open feature 'case' ###
 sub bullet by bullet.case;
 sub parenleft by parenleft.case;
 sub parenright by parenright.case;
@@ -209,17 +251,21 @@ sub asciitilde by asciitilde.case;
 sub logicalnot by logicalnot.case;
 sub infinity by infinity.case;
 sub emptyset by emptyset.case;
+### close feature 'case' ###
 } case;
 
+### feature:11:liga ###
 feature liga {
-# automatic
+### open feature 'liga' ###
 lookupflag IgnoreMarks;
 sub f i by f_i;
 sub f l by f_l;
+### close feature 'liga' ###
 } liga;
 
+### feature:12:ss01 ###
 feature ss01 {
-# automatic
+### open feature 'ss01' ###
 sub a by a.ss01;
 sub aacute by aacute.ss01;
 sub abreve by abreve.ss01;
@@ -232,7 +278,158 @@ sub aring by aring.ss01;
 sub atilde by atilde.ss01;
 sub g by g.ss01;
 sub gbreve by gbreve.ss01;
-sub gcommaaccent by gcommaaccent.ss01;
+sub uni0123 by uni0123.ss01;
 sub gdotaccent by gdotaccent.ss01;
+### close feature 'ss01' ###
 } ss01;
+
+### feature:-1:kern ###
+feature kern {
+### open feature 'kern' ###
+	lookup kern_DFLT {
+		lookupflag IgnoreMarks;
+		pos zero.numr fraction 0;
+	} kern_DFLT;
+	lookupflag 0;
+### close feature 'kern' ###
+} kern;
+
+### feature:-1:mark ###
+feature mark {
+	lookup mark_DFLT {
+		lookupflag 0;
+		pos base zero <anchor 305 800> mark @mark_top;
+		pos base copyright <anchor 296 493> mark @mark_bottom <anchor 289 737> mark @mark_top;
+		pos base trademark <anchor 232 495> mark @mark_bottom <anchor 232 736> mark @mark_top;
+		pos base uni00B5 <anchor 300 0> mark @mark_bottom <anchor 300 500> mark @mark_top;
+		pos base nd.ord <anchor 135 397> mark @mark_bottom <anchor 142 652> mark @mark_top;
+	} mark_DFLT;
+	lookup mark_DFLT_center {
+		lookupflag 0;
+		pos base zero <anchor 305 350> mark @mark_center;
+		pos base trademark <anchor 232 600> mark @mark_center;
+		pos base nd.ord <anchor 61 507> mark @mark_center;
+	} mark_DFLT_center;
+	lookup mark_DFLT_ogonek {
+		lookupflag 0;
+		pos base zero <anchor 312 10> mark @mark_ogonek;
+	} mark_DFLT_ogonek;
+	lookup mark_latn {
+		lookupflag 0;
+		pos base A <anchor 303 800> mark @mark_top;
+		pos base AE <anchor 303 800> mark @mark_top;
+		pos base C <anchor 336 0> mark @mark_bottom <anchor 313 800> mark @mark_top;
+		pos base D <anchor 156 0> mark @mark_bottom <anchor 242 800> mark @mark_top;
+		pos base E <anchor 305 0> mark @mark_bottom <anchor 295 800> mark @mark_top;
+		pos base G <anchor 305 0> mark @mark_bottom <anchor 322 800> mark @mark_top;
+		pos base H <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base I <anchor 305 800> mark @mark_top;
+		pos base J <anchor 300 0> mark @mark_bottom <anchor 300 800> mark @mark_top;
+		pos base K <anchor 282 0> mark @mark_bottom <anchor 291 800> mark @mark_top;
+		pos base L <anchor 287 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base Lslash <anchor 301 800> mark @mark_top;
+		pos base M <anchor 502 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base N <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base Eng <anchor 497 0> mark @mark_bottom;
+		pos base O <anchor 305 800> mark @mark_top;
+		pos base OE <anchor 310 0> mark @mark_bottom <anchor 303 800> mark @mark_top;
+		pos base P <anchor 305 0> mark @mark_bottom <anchor 305 700> mark @mark_top;
+		pos base Thorn <anchor 305 0> mark @mark_bottom <anchor 305 700> mark @mark_top;
+		pos base R <anchor 278 0> mark @mark_bottom <anchor 275 800> mark @mark_top;
+		pos base S <anchor 309 800> mark @mark_top;
+		pos base T <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base U <anchor 305 0> mark @mark_bottom <anchor 302 800> mark @mark_top;
+		pos base V <anchor 303 200> mark @mark_top;
+		pos base W <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base Y <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base Z <anchor 305 0> mark @mark_bottom <anchor 305 800> mark @mark_top;
+		pos base a <anchor 315 0> mark @mark_bottom <anchor 295 580> mark @mark_top;
+		pos base c <anchor 321 0> mark @mark_bottom <anchor 310 580> mark @mark_top;
+		pos base d <anchor 310 0> mark @mark_bottom <anchor 280 580> mark @mark_top;
+		pos base e <anchor 325 0> mark @mark_bottom <anchor 310 580> mark @mark_top;
+		pos base f <anchor 310 1> mark @mark_top;
+		pos base g <anchor 305 -200> mark @mark_bottom <anchor 297 580> mark @mark_top;
+		pos base h <anchor 130 0> mark @mark_bottom <anchor 325 580> mark @mark_top;
+		pos base dotlessi <anchor 310 0> mark @mark_bottom <anchor 300 580> mark @mark_top;
+		pos base uni0237 <anchor 307 0> mark @mark_bottom <anchor 430 580> mark @mark_top;
+		pos base k <anchor 285 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base l <anchor 305 0> mark @mark_bottom <anchor 305 759> mark @mark_top;
+		pos base m <anchor 312 0> mark @mark_bottom <anchor 300 580> mark @mark_top;
+		pos base n <anchor 308 0> mark @mark_bottom <anchor 324 580> mark @mark_top;
+		pos base eng <anchor 356 0> mark @mark_bottom <anchor 356 500> mark @mark_top;
+		pos base o <anchor 310 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base oe <anchor 315 -10> mark @mark_bottom <anchor 315 580> mark @mark_top;
+		pos base p <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base q <anchor 305 0> mark @mark_bottom <anchor 305 530> mark @mark_top;
+		pos base r <anchor 211 0> mark @mark_bottom <anchor 275 580> mark @mark_top;
+		pos base s <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base t <anchor 327 0> mark @mark_bottom <anchor 310 699> mark @mark_top;
+		pos base u <anchor 300 580> mark @mark_top;
+		pos base v <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base w <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base x <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base y <anchor 281 0> mark @mark_bottom <anchor 306 580> mark @mark_top;
+		pos base z <anchor 305 0> mark @mark_bottom <anchor 305 580> mark @mark_top;
+		pos base a.ss01 <anchor 305 0> mark @mark_bottom <anchor 295 580> mark @mark_top;
+		pos base g.ss01 <anchor 305 -200> mark @mark_bottom <anchor 294 580> mark @mark_top;
+	} mark_latn;
+	lookup mark_latn_center {
+		lookupflag 0;
+		pos base D <anchor 138 345> mark @mark_center;
+		pos base H <anchor 306 516> mark @mark_center;
+		pos base L <anchor 216 348> mark @mark_center;
+		pos base O <anchor 305 350> mark @mark_center;
+		pos base T <anchor 305 350> mark @mark_center;
+		pos base d <anchor 490 591> mark @mark_center;
+		pos base g <anchor 461 591> mark @mark_center;
+		pos base h <anchor 130 580> mark @mark_center;
+		pos base l <anchor 305 388> mark @mark_center;
+		pos base n <anchor 140 250> mark @mark_center;
+		pos base o <anchor 305 250> mark @mark_center;
+		pos base t <anchor 222 264> mark @mark_center;
+		pos base u <anchor 292 240> mark @mark_center;
+	} mark_latn_center;
+	lookup mark_latn_ogonek {
+		lookupflag 0;
+		pos base A <anchor 401 10> mark @mark_ogonek;
+		pos base E <anchor 360 0> mark @mark_ogonek;
+		pos base I <anchor 338 0> mark @mark_ogonek;
+		pos base O <anchor 312 10> mark @mark_ogonek;
+		pos base OE <anchor 558 10> mark @mark_ogonek;
+		pos base U <anchor 319 10> mark @mark_ogonek;
+		pos base V <anchor 451 690> mark @mark_ogonek;
+		pos base a <anchor 383 10> mark @mark_ogonek;
+		pos base c <anchor 397 10> mark @mark_ogonek;
+		pos base e <anchor 323 10> mark @mark_ogonek;
+		pos base dotlessi <anchor 369 10> mark @mark_ogonek;
+		pos base o <anchor 308 9> mark @mark_ogonek;
+		pos base oe <anchor 353 -55> mark @mark_ogonek;
+		pos base r <anchor 172 10> mark @mark_ogonek;
+		pos base u <anchor 350 10> mark @mark_ogonek;
+		pos base a.ss01 <anchor 399 10> mark @mark_ogonek;
+	} mark_latn_ogonek;
+	lookupflag 0;
+	script latn;
+	lookup mark_latn;
+	lookup mark_latn_center;
+	lookup mark_latn_ogonek;
+	lookupflag 0;
+### open feature 'mark' ###
+### close feature 'mark' ###
+} mark;
+
+### feature:-1:mkmk ###
+feature mkmk {
+### open feature 'mkmk' ###
+	lookup mkmk_DFLT_bottom {
+		lookupflag UseMarkFilteringSet @mark_bottom;
+		pos mark uni0326 <anchor 298 -200> mark @mark_bottom;
+	} mkmk_DFLT_bottom;
+	lookup mkmk_DFLT_top {
+		lookupflag UseMarkFilteringSet @mark_top;
+		pos mark uni0306 <anchor 314 800> mark @mark_top;
+		pos mark tildecomb <anchor 310 800> mark @mark_top;
+	} mkmk_DFLT_top;
+### close feature 'mkmk' ###
+} mkmk;
 

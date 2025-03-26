@@ -16,9 +16,6 @@
       <point x="422" y="-100"/>
       <point x="385" y="-138"/>
     </contour>
-    <contour>
-      <point x="253" y="-233" type="move"/>
-    </contour>
     <component base="n"/>
   </outline>
 </glyph>

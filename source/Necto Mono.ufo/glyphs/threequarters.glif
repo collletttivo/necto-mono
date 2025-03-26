@@ -3,9 +3,9 @@
   <advance width="610"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="four.dnom" xOffset="168" identifier="E16316BD"/>
-    <component base="fraction" xOffset="-6" yOffset="1" identifier="DB6CB22E"/>
-    <component base="three.numr" xOffset="-159" yOffset="-9" identifier="348EC050"/>
+    <component base="four.dnom" xOffset="168" identifier="563E185B"/>
+    <component base="fraction" xOffset="-6" yOffset="1" identifier="EBEEE0A6"/>
+    <component base="three.numr" xOffset="-159" yOffset="-9" identifier="44E5863F"/>
   </outline>
   <lib>
     <dict>
@@ -13,17 +13,17 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>348EC050</key>
+        <key>44E5863F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DB6CB22E</key>
+        <key>563E185B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E16316BD</key>
+        <key>EBEEE0A6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

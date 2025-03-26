@@ -2,6 +2,26 @@
 <glyph name="approxequal.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="equal"/>
+    <component base="tilde" yOffset="-361" identifier="2EFFDBF2"/>
+    <component base="tilde" yOffset="-124" identifier="EE2C804D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2EFFDBF2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EE2C804D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

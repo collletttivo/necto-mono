@@ -1,16 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threequarters" format="2">
   <advance width="610"/>
+  <unicode hex="00BE"/>
   <outline>
-    <component base="one.numr" xOffset="-173" yOffset="7" identifier="EEEE6ED7"/>
-    <component base="eight.dnom" xOffset="168" yOffset="1"/>
-    <component base="fraction" xOffset="-6" yOffset="1"/>
+    <component base="four.dnom" xOffset="168" identifier="4C039C2F"/>
+    <component base="fraction" xOffset="-6" yOffset="1" identifier="D1CDA728"/>
+    <component base="three.numr" xOffset="-159" yOffset="-9" identifier="F37B662B"/>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>EEEE6ED7</key>
+        <key>4C039C2F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D1CDA728</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F37B662B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

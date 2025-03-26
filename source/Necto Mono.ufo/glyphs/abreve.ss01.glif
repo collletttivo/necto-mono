@@ -4,6 +4,6 @@
   <guideline x="339" y="628" angle="0"/>
   <outline>
     <component base="a.ss01"/>
-    <component base="brevecomb" xOffset="-10" yOffset="53"/>
+    <component base="uni0306" xOffset="-10" yOffset="53"/>
   </outline>
 </glyph>

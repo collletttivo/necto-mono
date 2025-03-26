@@ -2,7 +2,7 @@
 <glyph name="four.numr" format="2">
   <advance width="610"/>
   <outline>
-    <component base="four.dnom" yOffset="394" identifier="8F0B3B05"/>
+    <component base="four.dnom" yOffset="394" identifier="3C1237D0"/>
   </outline>
   <lib>
     <dict>
@@ -10,7 +10,7 @@
       <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8F0B3B05</key>
+        <key>3C1237D0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>1</integer>

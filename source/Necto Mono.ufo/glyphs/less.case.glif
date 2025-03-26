@@ -2,7 +2,16 @@
 <glyph name="less.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="greater" xScale="-1" xOffset="610"/>
+    <contour>
+      <point x="471" y="58" type="line"/>
+      <point x="511" y="124" type="line"/>
+      <point x="155" y="298" type="line"/>
+      <point x="155" y="258" type="line"/>
+      <point x="511" y="432" type="line"/>
+      <point x="471" y="498" type="line"/>
+      <point x="109" y="315" type="line"/>
+      <point x="109" y="241" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
-  <advance width="610"/>
+  <advance width="0"/>
   <unicode hex="0300"/>
   <anchor x="282" y="530" name="_top"/>
   <outline>
-    <component base="grave" xOffset="-18" identifier="5213BEFF"/>
+    <component base="grave" xOffset="-18" identifier="DABE03F8"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>5213BEFF</key>
+        <key>DABE03F8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

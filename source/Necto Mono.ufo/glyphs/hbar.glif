@@ -4,13 +4,13 @@
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="strokeshortcomb" xOffset="-164" yOffset="321" identifier="09EB7751"/>
+    <component base="uni0335" xOffset="-164" yOffset="321" identifier="A3BED95C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>09EB7751</key>
+        <key>A3BED95C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -2,6 +2,20 @@
 <glyph name="asciitilde.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="plus"/>
+    <component base="tilde" yOffset="-243" identifier="78F35ACD"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>78F35ACD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -12,6 +12,6 @@
       <point x="165" y="-230" type="line"/>
       <point x="162" y="96" type="line"/>
     </contour>
-    <component base="b-bowl"/>
+    <component base="bbowl"/>
   </outline>
 </glyph>

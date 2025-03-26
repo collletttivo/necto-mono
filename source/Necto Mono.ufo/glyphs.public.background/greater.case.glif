@@ -2,6 +2,21 @@
 <glyph name="greater.case" format="2">
   <advance width="610"/>
   <outline>
-    <component base="plus"/>
+    <contour>
+      <point x="139" y="128" type="line"/>
+      <point x="501" y="311" type="line"/>
+      <point x="501" y="385" type="line"/>
+      <point x="139" y="568" type="line"/>
+      <point x="99" y="502" type="line"/>
+      <point x="455" y="328" type="line"/>
+      <point x="455" y="368" type="line"/>
+      <point x="99" y="194" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

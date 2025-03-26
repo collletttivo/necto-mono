@@ -3,19 +3,19 @@
   <advance width="610"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="b-bowl" identifier="F6E6171E"/>
-    <component base="b-stem" identifier="0E94A15C"/>
+    <component base="bbowl" identifier="D6F71F20"/>
+    <component base="bstem" identifier="19C03161"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0E94A15C</key>
+        <key>19C03161</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F6E6171E</key>
+        <key>D6F71F20</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

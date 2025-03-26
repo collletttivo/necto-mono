@@ -1,26 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
   <advance width="610"/>
+  <unicode hex="00BD"/>
   <outline>
-    <component base="four.dnom" xOffset="168" identifier="999773B2"/>
-    <component base="fraction" xOffset="-6" yOffset="1" identifier="9DD03EE2"/>
-    <component base="one.numr" xOffset="-173" yOffset="7" identifier="FD0EF7BE"/>
+    <component base="two.dnom" xOffset="170" identifier="C073CF67"/>
+    <component base="fraction" xOffset="-6" yOffset="1" identifier="E24174FB"/>
+    <component base="one.numr" xOffset="-173" yOffset="7" identifier="C7275CD6"/>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>999773B2</key>
+        <key>C073CF67</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9DD03EE2</key>
+        <key>C7275CD6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FD0EF7BE</key>
+        <key>E24174FB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

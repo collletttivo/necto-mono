@@ -3,7 +3,7 @@
   <advance width="610"/>
   <guideline x="229" y="-164" angle="0"/>
   <outline>
-    <component base="braceleft.case" xScale="-1" xOffset="610"/>
+    <component base="braceright" yOffset="51"/>
   </outline>
   <lib>
     <dict>

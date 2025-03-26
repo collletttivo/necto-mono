@@ -3,19 +3,19 @@
   <advance width="610"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" identifier="839D82CA"/>
-    <component base="ellecaroncomb" xOffset="232" identifier="7CE2D16F"/>
+    <component base="d" identifier="B6DA3585"/>
+    <component base="ellecaroncomb" xOffset="232" identifier="0D80A584"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>7CE2D16F</key>
+        <key>0D80A584</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>839D82CA</key>
+        <key>B6DA3585</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

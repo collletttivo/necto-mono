@@ -3,27 +3,34 @@
   <advance width="610"/>
   <outline>
     <contour>
-      <point x="289" y="305" type="line"/>
-      <point x="286" y="266" type="line"/>
-      <point x="286" y="-4" type="line"/>
-      <point x="324" y="-4" type="line"/>
-      <point x="324" y="305" type="line"/>
+      <point x="280" y="299" type="line"/>
+      <point x="276" y="251" type="line"/>
+      <point x="276" y="250" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="299" type="line"/>
     </contour>
     <contour>
-      <point x="208" y="30" type="line"/>
-      <point x="208" y="-4" type="line"/>
-      <point x="402" y="-4" type="line"/>
-      <point x="402" y="30" type="line"/>
+      <point x="198" y="52" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="412" y="52" type="line"/>
     </contour>
     <contour>
-      <point x="221" y="258" type="curve"/>
-      <point x="221" y="225" type="line"/>
-      <point x="269" y="225"/>
-      <point x="304" y="252"/>
-      <point x="304" y="305" type="curve"/>
-      <point x="289" y="305" type="line"/>
-      <point x="287" y="287"/>
-      <point x="272" y="258"/>
+      <point x="211" y="252" type="curve"/>
+      <point x="211" y="199" type="line"/>
+      <point x="277" y="199"/>
+      <point x="305" y="235"/>
+      <point x="305" y="299" type="curve"/>
+      <point x="280" y="299" type="line"/>
+      <point x="280" y="268"/>
+      <point x="255" y="252"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

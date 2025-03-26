@@ -3,19 +3,19 @@
   <advance width="610"/>
   <unicode hex="2248"/>
   <outline>
-    <component base="tilde" yOffset="-431" identifier="B73B0300"/>
-    <component base="tilde" yOffset="-194" identifier="73EDD6E1"/>
+    <component base="tilde" yOffset="-431" identifier="04B2D48D"/>
+    <component base="tilde" yOffset="-194" identifier="D3FE0806"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>73EDD6E1</key>
+        <key>04B2D48D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B73B0300</key>
+        <key>D3FE0806</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
